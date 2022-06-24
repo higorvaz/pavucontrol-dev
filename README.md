@@ -1,6 +1,6 @@
 Mirror of the PulseAudio Volume Control application (for bug reports and pull requests go to the website!)
 
-## New implementation of Linux PavUControl
+## New implementation of Linux PAVuControl
 
 ### I'm trying to create a cross-platform application in order to totally control, flatten and equalize audio sound.
 
