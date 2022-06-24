@@ -8,10 +8,9 @@ With the first intention make auto control and normalization of the audio from m
 
 ---
 
-**Use Case 001 - "I, as an end user, want to automatically take control over the sounds of various Google Chrome tabs."**  
-As you can do it manually, by Pavucontrol, I want to do this by a predetermined setting, and automatically level the sounds, based on the "Silence" level parameter shown in the UI of the src/channelwidget.h file to prevent that the sound of any tab exceeds the pre-set decibel level.
-
-And with that and the help of the Flutter framework, in addition to some operating system implementations, create an open source application (Android, Apple, Linux, Windows, Web)
+*   [ ] **Use Case 001 - "I, as an end user, want to automatically take control over the sounds of various Google Chrome tabs."**  
+    As you can do it manually, by Pavucontrol, I want to do this by a predetermined setting, and automatically level the sounds, based on the "Silence" level parameter shown in the UI of the src/channelwidget.h file to prevent that the sound of any tab exceeds the pre-set decibel level.  
+    And with that and the help of the Flutter framework, in addition to some operating system implementations, create an open source application (Android, Apple, Linux, Windows, Web)
 
 Screencast-UseCase1
 
